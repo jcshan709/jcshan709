@@ -20,3 +20,4 @@ Up to now, I've known about some programming languages.
 - Open-source programmer ~~(for most projects)~~
 - Favorite Operating Systems: [UOS (China)](https://www.chinauos.com) [Linux/Ubuntu](https://ubuntu.com) Microsoft Windows
 - Favorite databases: [MySQL](https://mysql.com)/[MariaDB](https://mariadb.org)
+- Favorite browsers: [Microsoft Edge](http://microsoftedge.com) [Google Chrome](https://google.com/chrome)
