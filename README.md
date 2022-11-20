@@ -1,4 +1,4 @@
-# brief.txt
+# description.txt
 Hello! Thank you for spending your time knowing me.  
 I'm a student from **China**, and I began to learn programming when I was 9 years old.  
 Up to now, I've known about some programming languages.
