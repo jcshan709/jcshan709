@@ -1,5 +1,5 @@
 # Description
-Hello! Thank you for spending your time looking at my profile.  
+Hello! Thank you for spending your time reading my profile.  
 Born in 2007 in ***China*** and be interested in programming in 2015.  
 Also a sandbox lover (including `Minecraft` and `Terraria`). Welcome to friend me on [Steam](https://steamcommunity.com/profiles/76561199083220868).  
 Minecraft Account: *A_Chinese_Player*  
