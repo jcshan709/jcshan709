@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello 👋  
+I'm a prospective college student from China.  
+Graduated from senior high school in June 2026.  
+Potential study direction: Cyberspace Security  
+
+## Programming 💻  
+- Most commonly used languages: `Rust` `C++` `Python`  
+- Not good at front-end tasks like UI designing.
+- Rust enthusiast.
+- Coding style: pursue security, performance and concision.
+- Love to engage in opensource projects.
+
+## Contact 📬
+Social email: [jcshan709@163.com](mailto:jcshan709@163.com)  
 
 <!--
 **jcshan709/jcshan709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
