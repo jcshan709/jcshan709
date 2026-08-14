@@ -2,6 +2,7 @@
 I'm a prospective college student from China.  
 Graduated from senior high school in June 2026.  
 Potential study direction: Cyberspace Security  
+Avatar from [pixiv](https://www.pixiv.net/artworks/148230216)  
 
 ## Programming 💻  
 - Most commonly used languages: `Rust` `C++` `Python`  
