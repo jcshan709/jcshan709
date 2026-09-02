@@ -1,13 +1,12 @@
 ## Hello 👋  
-I'm a prospective college student from China.  
+I'm a college student from [Xidian University](https://www.xidian.edu.cn/).  
 Graduated from senior high school in June 2026.  
-Potential study direction: Cyberspace Security  
+Major: Cyberspace Security  
 Avatar from [pixiv#148230216](https://www.pixiv.net/artworks/148230216)  
 
 ## Programming 💻  
-- Most commonly used languages: `Rust` `C++` `Python`  
+- Most commonly used languages: `Rust` `C++` `Python`
 - Not good at front-end tasks like UI designing.
-- Rust enthusiast.
 - Coding style: pursue security, performance and concision.
 - Love to engage in opensource projects.
 
