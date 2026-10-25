@@ -1,17 +1,33 @@
-## Hello 👋  
-I'm a college student from [Xidian University](https://www.xidian.edu.cn/).  
-Graduated from senior high school in June 2026.  
-Major: Cyberspace Security  
-Avatar from [pixiv#148230216](https://www.pixiv.net/artworks/148230216)  
+## Hello 👋
 
-## Programming 💻  
-- Most commonly used languages: `Rust` `C++` `Python`
-- Not good at front-end tasks like UI designing.
-- Coding style: pursue security, performance and concision.
-- Love to engage in opensource projects.
+A college student from [Xidian University](https://www.xidian.edu.cn/).
+
+Graduated from senior high school in June 2026.
+
+Major: Cyberspace Security
+
+Interests: Minecraft, Touhou Project, ...
+
+Avatar from [pixiv #148230216](https://www.pixiv.net/artworks/148230216)
+
+## Skills & Preferences 📖
+
+Preferred languages: `Rust` `Python` `C/C++` `C#`
+
+Preferred licenses: `MIT` `Apache-2.0` `CC BY-NC`
+
+Favorite AI models: `DeepSeek` `ChatGPT`
+
+Coding style: **Secure**, **Efficient**, **Concise**
 
 ## Contact 📬
-Social email: [jcshan709@163.com](mailto:jcshan709@163.com)  
+
+Social email:
+- [jcshan709@163.com](mailto:jcshan709@163.com)
+- [jcshan709@gmail.com](mailto:jcshan709@gmail.com)
+
+Social media:
+- [Bilibili](https://space.bilibili.com/508256343)
 
 <!--
 **jcshan709/jcshan709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
